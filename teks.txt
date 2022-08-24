@@ -3,5 +3,7 @@ REPOSITORY1
 
 Ini adalah tulisan.
   - Ini tulisan dari branch1
+    -> Ini update tulisan dari branch1
   - Ini juga dari branch1
+    -> Ini update tulisan dari branch1
 Ini juga tulisan
