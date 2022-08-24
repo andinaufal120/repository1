@@ -2,3 +2,4 @@ REPOSITORY1
 -> Commit 1
 
 Ini adalah tulisan.
+Ini juga tulisan
