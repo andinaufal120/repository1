@@ -1,2 +1,4 @@
 REPOSITORY1
 -> Commit 1
+
+Ini baris baru, commit 2
